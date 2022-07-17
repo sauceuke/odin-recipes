@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first odin recipe "book"! In this project I will be creating recipes on HTML pages and showing off all the cool things I've learned from The Odin Project so far! That includes using various HTML tags on these recipe pages. 
